@@ -1,0 +1,18 @@
+{
+    "name": "maidou/holiday",
+    "type": "1",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Maidou\\Holiday\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wxl",
+            "email": "871500751@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
